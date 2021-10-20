@@ -1,7 +1,13 @@
 # ophiuroid-paper
 Scripts associated to the Yunda-Guarin et al. paper on Arctic ophiuroids (in revision for Marine Ecology Progress Series).
 
-"Fig2.R" contains code for trophic position modelling and figure 2.
+"Fig2.R" contains code for trophic position modelling and associated figure 2.
+
+"Fig3.R" contains code for the isotopic biplot of figure 3.
+
+"Fig4.R" contains code for standard ellipse area computations and visual representation as boxplots (figure 4).
+
+"Fig5.R" contains code for standard ellipse bivariate representation (figure 5) and overlap computations.
 
 The data files are here for illustration only. The fully documented dataset can be found at [insert future link].
 
