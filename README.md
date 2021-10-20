@@ -5,7 +5,7 @@ Scripts associated to the Yunda-Guarin et al. paper on Arctic ophiuroids (in rev
 
 "Fig3.R" contains code for the isotopic biplot of figure 3.
 
-"Fig4.R" contains code for standard ellipse area computations and visual representation as boxplots (figure 4).
+"Fig4.R" contains code for standard ellipse area computations, comparisons across zones or species, and visual representation as boxplots (figure 4).
 
 "Fig5.R" contains code for standard ellipse bivariate representation (figure 5) and overlap computations.
 
